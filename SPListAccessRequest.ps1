@@ -41,6 +41,8 @@ write-host $valori_clare.count
             Disconnect-PnPOnline
 
             write-host "test"
+
+            write-host "test 2"
         
         }
 
