@@ -39,6 +39,8 @@ write-host $valori_clare.count
             write-host "Access granted for $valoare.SiteCollectionURL"
 
             Disconnect-PnPOnline
+
+            write-host "test"
         
         }
 
