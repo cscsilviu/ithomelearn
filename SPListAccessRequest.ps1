@@ -43,6 +43,8 @@ write-host $valori_clare.count
             write-host "test"
 
             write-host "test 2"
+
+            write-host "test 3"
         
         }
 
